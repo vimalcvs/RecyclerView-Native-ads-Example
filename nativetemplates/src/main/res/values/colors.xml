@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="gnt_test_background_color">#00F4F4F4</color>
+  <color name="gnt_white">#FDFDFE</color>
+  <color name="gnt_gray">#808080</color>
+  <color name="gnt_bg">#FAFBFB</color>
+  <color name="gnt_text_primary">#000001</color>
+  <color name="gnt_text_secondary">#212121</color>
+  <color name="gnt_text_tertiary">#606770</color>
+</resources>
